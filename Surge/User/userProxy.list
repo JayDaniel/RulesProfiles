@@ -1,0 +1,39 @@
+# User Custom Proxy
+# > VPS Service
+DOMAIN-SUFFIX,crowncloud.net
+DOMAIN-SUFFIX,crownpanel.com
+DOMAIN-SUFFIX,hosteons.com
+DOMAIN-SUFFIX,hostdare.com
+DOMAIN-SUFFIX,panel.gs
+DOMAIN-SUFFIX,cubecloud.net
+DOMAIN-SUFFIX,scorpioud.com
+DOMAIN-SUFFIX,hkserversolution.com
+DOMAIN-SUFFIX,rfchost.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,t667.com
+
+# > IP Test
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,ipv6-test.com
+DOMAIN-SUFFIX,myip.ipip.net
+DOMAIN-SUFFIX,ip.gs
+DOMAIN-SUFFIX,ip.sb
+
+# >  Others
+DOMAIN-KEYWORD,ubi // 育碧
+DOMAIN-SUFFIX,azure.com // 微软Azure
+DOMAIN-SUFFIX,saurik.com // Cydia Impactor
+DOMAIN-SUFFIX,repos.lax-noc.com
+DOMAIN-SUFFIX,thebigboss.org // Cydia Update
+DOMAIN-SUFFIX,downloads.atlassian.com // SourceTree
+DOMAIN-SUFFIX,cnswift.org // swift中文文档
+DOMAIN-SUFFIX,jetbrains.com  
+DOMAIN-SUFFIX,namecheap.com // namecheap
+DOMAIN-SUFFIX,objccn.io // Objc
+DOMAIN-SUFFIX,dashaqi.tk
+DOMAIN-SUFFIX,ssllabs.com
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,doub.io
+DOMAIN-SUFFIX,rubygems.org
+DOMAIN-SUFFIX,fastlane.tools
+DOMAIN-SUFFIX,lineageos.org
